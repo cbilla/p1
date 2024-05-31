@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-31T10:38:26Z" name="testng" finished-at="2024-05-31T10:38:41Z" duration-ms="14870">
+    <groups>
+    </groups>
+    <test started-at="2024-05-31T10:38:26Z" name="Test" finished-at="2024-05-31T10:38:41Z" duration-ms="14870">
+      <class name="CRM.automation.CRM.CRMLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CRM.automation.CRM.CRMLogin@209da20d]" started-at="2024-05-31T06:38:26Z" name="setUp" finished-at="2024-05-31T06:38:40Z" duration-ms="13867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="crmLoginTest()[pri:0, instance:CRM.automation.CRM.CRMLogin@209da20d]" started-at="2024-05-31T06:38:40Z" name="crmLoginTest" finished-at="2024-05-31T06:38:40Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:CRM.automation.CRM.CRMLogin@209da20d]" started-at="2024-05-31T06:38:40Z" name="tearDown" finished-at="2024-05-31T06:38:41Z" duration-ms="962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- CRM.automation.CRM.CRMLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- testng -->
+</testng-results>
